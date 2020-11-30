@@ -1,0 +1,11 @@
+myHash = {:Jaws => 1975, 
+          :Goonies => 1985, 
+          :Terminator => 1984, 
+          :Tootsie => 1982, 
+          :ET => 1982}
+          
+puts myHash[:Jaws]
+puts myHash[:Goonies]
+puts myHash[:Tootsie]
+puts myHash[:Terminator]
+puts myHash[:ET]
